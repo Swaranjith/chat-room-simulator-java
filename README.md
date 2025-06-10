@@ -64,3 +64,17 @@ A multithreaded console-based chat room simulator in Java that allows multiple u
 
 ## 📂 Project Structure
 
+
+🚀 Future Improvements
+GUI interface (Swing/JavaFX)
+
+Real-time networking using Sockets
+
+Web-based version using Spring Boot & WebSockets
+
+Persistent message storage (e.g., using a database)
+
+Swaranjith Gudelli
+Java Developer | UI Designer | IT Engineering Student
+LinkedIn • https://www.linkedin.com/in/swaranjith-gudelli
+
