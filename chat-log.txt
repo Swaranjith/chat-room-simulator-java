@@ -1,0 +1,25 @@
+[11:52:29] ChatBot: Keep chatting :)
+[11:52:34] ChatBot: This chat is cool!
+[11:52:39] ChatBot: I'm a friendly bot.
+[11:52:45] ChatBot: Keep chatting :)
+[11:52:52] Alice: hello
+[11:52:52] Charlie: hiee
+[11:52:52] Bob: hhfff
+[11:52:52] ChatBot: Hello everyone!
+[11:52:58] ChatBot: Keep chatting :)
+[11:53:03] ChatBot: I'm here to help!
+[11:53:10] ChatBot: Hello everyone!
+[11:53:15] ChatBot: Have you tried multithreading?
+[11:53:18] ChatBot: I'm a friendly bot.
+[11:53:22] ChatBot: Hello everyone!
+[11:53:28] ChatBot: This chat is cool!
+[11:53:32] ChatBot: Keep chatting :)
+[11:53:37] ChatBot: Java is awesome!
+[11:53:43] ChatBot: Let's code together!
+[11:53:50] ChatBot: Hello everyone!
+[11:53:57] ChatBot: Hello everyone!
+[11:54:02] ChatBot: Keep chatting :)
+[11:54:06] ChatBot: Java is awesome!
+[11:54:12] ChatBot: Java is awesome!
+[11:54:17] ChatBot: Let's code together!
+[11:54:21] ChatBot: Have you tried multithreading?
